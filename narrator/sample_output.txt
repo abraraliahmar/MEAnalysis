@@ -1,0 +1,12 @@
+**Situation**  
+Mamaearth’s verified total revenue stands at INR 97,358.30, reconciling against the raw total revenue of INR 99,860.20 after resolving a duplicate reconciliation delta of INR 2,501.90. Performance tracking indicates that March 2026 is the true peak revenue month, delivering INR 20,318.90. Conversely, January 2026 showed an apparent revenue of INR 29,582.10, but correcting for outlier orders adjusts its actual revenue to INR 11,637.10.
+
+**Complication**  
+Customer returns significantly erode realized revenue, with product return rates varying drastically across payment methods: CARD orders see a 14.7% return rate, UPI records 18.9%, and COD surges to 44.4%. Operational exposure is heavily concentrated in Tier 2 cities using COD, which represents the highest-risk segment with a return rate of 54.5%. Furthermore, relying on uncorrected data creates a false impression of seasonal peaks, misallocating fulfillment focus based on the outlier-skewed January 2026 volume rather than the sustained performance of March 2026.
+
+**Resolution**  
+Regional operations and finance teams should immediately implement the following actions:
+1. Base working capital allocations, demand forecasting, and inventory plans on March 2026 baseline volumes (INR 20,318.90) rather than the outlier-inflated January 2026 figures.
+2. Restrict or apply verification checks on COD orders originating from Tier 2 cities to directly curb the 54.5% segment return rate.
+3. Incentivize customers to convert from COD (44.4% return rate) to CARD (14.7% return rate) and UPI (18.9% return rate) checkout channels at point-of-sale.
+4. Institutionalize automated reconciliation to capture the INR 2,501.90 duplicate delta in recurring monthly reporting.
